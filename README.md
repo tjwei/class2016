@@ -22,5 +22,5 @@
 * [simpson.ipynb](simpson.ipynb) Simpson's rule
 * [PyGame1.ipynb](PyGame1.ipynb)
 * [Hybrid Image.ipynb](Hybrid Image.ipynb) hybrid image using only numpy
-* [mnist.ipynb](mnist.ipynb) mnist using only numpy
+* [mnist.ipynb](mnist.ipynb) logistic regression on mnist with numpy
 
