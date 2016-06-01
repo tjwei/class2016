@@ -2,7 +2,7 @@
 
 ### Facebook API
 * [facebook.ipynb](facebook.ipynb) Basic
-* [Untitled15.ipynb](Untitled15.ipynb) favorite athletes  among your friends
+* [facebook1b.ipynb](facebook1b.ipynb) favorite athletes  among your friends
 * [facebook2.ipynb](facebook2.ipynb)  找出按讚最多的朋友排序
 * [facebook3.ipynb](facebook3.ipynb) Plot a graph using matplotlib and then post on facebook
 
