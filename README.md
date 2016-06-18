@@ -8,7 +8,7 @@
 
 ### Paint and plot with matplotlib
 * [paint.ipynb](paint.ipynb) np.array manipulation
-* [paint2.ipynb](paint2.ipynb) more examples
+* [paint2.ipynb](paint2.ipynb) more examples (ref:  http://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art )
 * [plot example.ipynb](plot example.ipynb) plot function graph
 * [Mandelbrot Set.ipynb](Mandelbrot Set.ipynb) Mandelbrot Set
 
